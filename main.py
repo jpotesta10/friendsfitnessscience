@@ -1,1 +1,4 @@
+fitness = []
+science = []
+friendship = []
 
